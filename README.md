@@ -1,0 +1,2 @@
+# sanookecoin
+New Cryptocurrency
